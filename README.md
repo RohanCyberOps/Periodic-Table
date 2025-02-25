@@ -1,4 +1,4 @@
-Here’s your text with all emojis removed:  
+ 
 
 ---
 
