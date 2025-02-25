@@ -18,12 +18,6 @@ We'll start with a **monochrome** version, including elements **57 and 89** in t
 [Also fun!](https://www.youtube.com/watch?v=v1TfPDlA1xE) - A cute discovery from related videos.  
 
 ---  
-## Cannibalizing Code  
-![HtC](http://media.winnipegfreepress.com/images/4592857.jpg)  
-
-We will **reuse** code from the **CoreArticles** and **MidtermElements** projects. Smart developers balance between **copying and retyping** – knowing when to **reuse** code efficiently saves time!  
-
----  
 ## Steps to Follow  
 
 ### 1. Project Setup  
